@@ -3,13 +3,13 @@ const acceptButton = document.querySelector(".btn-accept");
 const textElement = document.querySelector(".text-appear");
 
 const textVariants = [
-  "Are you sure pookie? 😳",
-  "Don't try to be a sigma...",
-  "Think again... 🤔",
-  "Don't break my heart 💔",
-  "Last chance! 😱",
-  "Seriously?! 😵",
-  "Okay... you win 😔",
+  "beneran masih mau marah?🥺",
+  "tolong maafin aku manjaku",
+  "gabisa klo mau nakalin aku trus wllee",
+  "sayangg gabisa dieman lama jadi maafin ua",
+  "sayangg minta maafff",
+  "maafinnn aku cinta gamau dimarah🥺🥺",
+  "yakin masih nolak maafin aku?🥺🥺",
 ];
 
 let textIndex = 0;
